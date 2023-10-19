@@ -1,5 +1,8 @@
 # Flights Management System
 #### Video Demo:   https://youtu.be/roGYClQ-8b4
+
+I did this project as part of my studies in the Migo program and as part of Harvard University's cs50 course
+
 #### Description:
 
 This is a Python project that simulates a system that allows you to register, search for flights and book tickets. The implementation is carried out through object-oriented programming and control of several databases.
