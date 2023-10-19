@@ -1,5 +1,5 @@
 # Flights Management System
-#### Video Demo:  <URL https://youtu.be/roGYClQ-8b4>
+#### Video Demo:   https://youtu.be/roGYClQ-8b4
 #### Description:
 
 This is a Python project that simulates a system that allows you to register, search for flights and book tickets. The implementation is carried out through object-oriented programming and control of several databases.
