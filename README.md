@@ -1,7 +1,7 @@
 # Flights Management System
 #### Video Demo:   https://youtu.be/roGYClQ-8b4
 
-I did this project as part of my studies in the Migo program and as part of Harvard University's cs50 course
+I did this project as part of my studies in the Mego program and as part of Harvard University's cs50 course
 
 #### Description:
 
