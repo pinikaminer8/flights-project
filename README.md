@@ -44,4 +44,6 @@ Finally, the main run file called *main.py* that have multiply functions:
 - get_num_of_travelers (Prompts the user to enter the number of travelers)
 - get_cur_order (Prompts the user to create a new order or exit the script)
 
-In the *main* function we run the entire program. Initially it creates a single instance of **MainManagement**, and from there it progress through the whole process using all the other classes above until the order is finished
+In the *main* function we run the entire program. Initially it creates a single instance of **MainManagement**, and from there it progress through the whole process using all the other classes above until the order is finished.
+
+**Clarification:** This is my first major Python project and should be treated as such
